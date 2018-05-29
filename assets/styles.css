@@ -1,0 +1,25 @@
+/*coloring for navbar features*/
+.mynavbar{
+    background-color: teal;
+    color: white !important;
+    font-family:'Georgia', Times, Times New Roman, serif !important;
+}
+/*showing which links are active so you see the page you are located on*/
+.active{
+    background-color: whitesmoke;
+    color: teal !important;
+}
+/*adjusting headers to match theme*/
+.headerstyle{
+    background-color: white;
+    color: teal;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+/*adjusting text blocks to match theme*/
+.cstyle{
+    background-color: white;
+    color: teal;
+    font-family: 'Georgia', Times, Times New Roman, serif !important;
+}
